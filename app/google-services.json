@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "543138133155",
+    "firebase_url": "https://engineering-portal-vbspu-default-rtdb.firebaseio.com",
+    "project_id": "engineering-portal-vbspu",
+    "storage_bucket": "engineering-portal-vbspu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543138133155:android:a6fa6c2a38bfe3a00d3b16",
+        "android_client_info": {
+          "package_name": "com.example.engineeringportalvbspu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543138133155-rlvgttmhmljmuqhth9nne6t5l8tvbcmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs5UXrVThIOKuLpKmvDrlqMl2-IUTEvTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543138133155-rlvgttmhmljmuqhth9nne6t5l8tvbcmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

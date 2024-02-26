@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Engineering &amp; Technology Portal VBSPU</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/hindbold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/hindregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/hindlight</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="reset">reset</string>
+    <string name="about_college">
+    The Uma Nath Singh Institute of Engineering and Technology, Started in the year 1997 initially with three departments in the faculty of Engineering and Technology at Veer Bahadur Singh Purvanchal University, Jaunpur. Initially the institute launched its academic activities with strength of ninety students. In the year 2002, the institute raised the annual intake from 90 to 180.The institute in a very short span of time established all the facilities to impart effective education to students. the institute achieved the distinction as one of the best equipped institute of the state. The institute boasts of having adequate numbers of faculty members with other required facilities like the computer centre, fiber optics Laboratory, microwave Laboratory, instrumentation facilities, language lab, computer labs, mechanical workshop.
+    </string>
+</resources>

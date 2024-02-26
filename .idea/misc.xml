@@ -1,0 +1,73 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable-v24/circle_admin.xml" value="0.1285" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable-v24/circle_logo.xml" value="0.1265" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable-v24/circle_purple.xml" value="0.127" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable-v24/circle_red.xml" value="0.127" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable-v24/ic_home.xml" value="0.126" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.129" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable/circle_green.xml" value="0.127" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable/circle_pink.xml" value="0.127" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable/circle_purple.xml" value="0.127" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable/circle_red.xml" value="0.127" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable/circle_yellow.xml" value="0.127" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable/ic_add.xml" value="0.128" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable/ic_baseline_admin_panel_settings_24.xml" value="0.1285" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable/ic_baseline_cloud_upload_24.xml" value="0.127" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable/ic_gallery.xml" value="0.126" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable/ic_group.xml" value="0.126" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable/ic_image.xml" value="0.126" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable/ic_launcher_background.xml" value="0.129" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable/ic_new_admin.xml" value="0.1285" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable/ic_notice.xml" value="0.126" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable/ic_pdf.xml" value="0.1265" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/drawable/ic_share.xml" value="0.152" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/activity_add_teacher.xml" value="0.21875" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/activity_add_teachers.xml" value="0.21875" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/activity_admin_login.xml" value="0.21875" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/activity_admin_main.xml" value="0.22" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/activity_admin_registration.xml" value="0.21875" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/activity_delete_notice.xml" value="0.21875" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/activity_developer.xml" value="0.21875" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/activity_ebook.xml" value="0.21875" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/activity_full_image_view.xml" value="0.21875" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/activity_pdf_viewer.xml" value="0.21875" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/activity_update_faculty.xml" value="0.22" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/activity_update_teacher.xml" value="0.21875" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/activity_upload_image.xml" value="0.22" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/activity_upload_notice.xml" value="0.22" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/activity_upload_pdf.xml" value="0.21875" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/activity_user_main.xml" value="0.22" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/admin_activity_main.xml" value="0.21875" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/branch_item_layout.xml" value="0.21875" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/drawer_header.xml" value="0.2140625" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/ebook_item_layout.xml" value="0.19166666666666668" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/faculty_item_layout.xml" value="0.21875" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/fragment_about.xml" value="0.18" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/fragment_faculty.xml" value="0.15" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/fragment_gallery.xml" value="0.22" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/fragment_notice.xml" value="0.1" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/gallery_image.xml" value="0.21875" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/newsfeed_item_layout.xml" value="0.21875" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/no_data_found.xml" value="0.21875" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/user_faculty_item_layout.xml" value="0.21875" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/user_newsfeed_item_layout.xml" value="0.21875" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/layout/user_no_data_found.xml" value="0.21875" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/menu/bottom_nav.xml" value="0.2140625" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/menu/navigation_drawer.xml" value="0.2140625" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.129" />
+        <entry key="..\:/NielitProg/EngineeringPortalVBSPU/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.129" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
