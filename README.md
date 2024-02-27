@@ -1,9 +1,9 @@
 Add readme file
 project all  fuction Img
 
-<img src="[https://github.com/ShivamPaswan95SP02/ChatsMeApp/assets/144666996/1f0c2c79-05c0-48f3-a590-9eb1281a5f2a](https://github.com/ShivamPaswan95SP02/College-Management-App/assets/144666996/4f2a0aaa-aefc-4f65-bce5-9177de65a0a1)" width="300" height="500">
+<img src="https://github.com/ShivamPaswan95SP02/College-Management-App/assets/144666996/4f2a0aaa-aefc-4f65-bce5-9177de65a0a1" width="300" height="500">
 
-![Admin_Engineering   Technolog]()
+![Admin_Engineering   Technolog](https://github.com/ShivamPaswan95SP02/College-Management-App/assets/144666996/4f2a0aaa-aefc-4f65-bce5-9177de65a0a1)
 ![Upload_Notice_Engineering   Technolog](https://github.com/ShivamPaswan95SP02/College-Management-App/assets/144666996/4f2a0aaa-aefc-4f65-bce5-9177de65a0a1)
 ![Upload_image_Engineering   Technolog](https://github.com/ShivamPaswan95SP02/College-Management-App/assets/144666996/867bab19-4dc4-4429-8104-c0b71dc89340)
 ![Upload-pdf_Engineering   Technology Portal VBSPU](https://github.com/ShivamPaswan95SP02/College-Management-App/assets/144666996/9a7aceaf-d6cb-4628-80cb-02fe31c937c9)
