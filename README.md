@@ -30,8 +30,8 @@ project all  fuction Img
 <img src="https://github.com/ShivamPaswan95SP02/College-Management-App/assets/144666996/4a24b4ce-3d86-4b95-85ef-839488401247" width="300" height="500">
 
 <img src="https://github.com/ShivamPaswan95SP02/College-Management-App/assets/144666996/46ee561d-c238-4fd8-b618-eec3b642a9e9" width="300" height="500">
-![Menu_Engineering   Technolog]()
+
 <img src="https://github.com/ShivamPaswan95SP02/College-Management-App/assets/144666996/a939fa22-6be6-4ea7-9420-c50ff30163f3" width="300" height="500">
-![E-Books_Engineering   Technology Portal VBSPU]()
+
 <img src="https://github.com/ShivamPaswan95SP02/College-Management-App/assets/144666996/7eab6da5-a8fd-4561-a63d-931b301040e7" width="300" height="500">
-![Login_Engineering   Technolog]()
+
